@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StateListDrawable</string>
+    <string name="btn_1">Press Me!</string>
+</resources>
